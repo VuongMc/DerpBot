@@ -1,9 +1,9 @@
 {
   "name": "bot",
   "version": "0.0.1",
-  "main": "bot.js",
+  "main": "node index.js",
   "scripts": {
-    "test": "node bot.js"
+    "test": "node index.js"
   },
   "author": "",
   "license": "ISC",
